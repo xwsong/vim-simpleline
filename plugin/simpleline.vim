@@ -1,3 +1,7 @@
+" Description: custom your statusline and tabline
+" Author: Xiongwei Song<sxwjean@gmail.com>
+" Date: 2020.06.05
+
 function! Get_Mode()
     let mode_opts =
         \ {
